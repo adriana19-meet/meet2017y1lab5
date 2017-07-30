@@ -1,5 +1,5 @@
-def draw_1d(n, c):
-     for loop in range(6):
+def draw_2d(n , m , chart1):
+     
           print(c * n)
 draw_1d(10,"*")
 
